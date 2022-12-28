@@ -3,6 +3,5 @@ sklearn
 scikit-learn
 numpy
 nltk
-re 
 flask
 gunicorn
